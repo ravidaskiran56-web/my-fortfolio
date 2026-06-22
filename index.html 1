@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kiran Ravidas | Portfolio</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f5f5f5;
+    color:#333;
+}
+
+header{
+    background:#0d6efd;
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+nav{
+    background:#084298;
+    text-align:center;
+      padding:15px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+}
+
+section{
+    max-width:900px;
+    margin:30px auto;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+h2{
+    color:#0d6efd;
+    margin-bottom:15px;
+}
+
+ul{
+    padding-left:20px;
+}
+footer{
+    text-align:center;
+    background:#0d6efd;
+    color:white;
+    padding:15px;
+    margin-top:20px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>Ravidas Kiran bharatprasad</h1>
+<p>B.Tech (IT) | Aspiring Full Stack Developer</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#skills">Skills</a>
+<a href="#projects">Projects</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+<h2>About Me</h2>
+<p>
+I am a B.Tech 3rd Year Information Technology student.
+I am passionate about Full Stack Development and continuously learning new technologies.
+I am looking for internship opportunities to improve my technical and problem-solving skills.
+</p>
+</section>
+
+<section id="skills">
+<h2>Skills</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>C</li>
+<li>Java</li>
+<li>Git & GitHub</li>
+</ul>
+</section>
+
+<section id="projects">
+<h2>Projects</h2>
+<ul>
+<li>Portfolio Website</li>
+</ul>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: ravidaskiran@123</p>
+<p>Phone: +91 7248944073</p>
+<p>GitHub: ravidaskiran</p>
+<p>LinkedIn: Ravidas Kiran bharatprasad</p>
+</section>
+</body>
+</html
